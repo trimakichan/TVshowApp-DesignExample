@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 16px;
+    width: 100%;
+    height: 100vh; 
+    background: #014f86 ;
+ 
+}
+
+.brand {
+    font-family: 'Climate Crisis', cursive, Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+.icon-white {
+    color: white;
+}
+
+.search {
+    background-color: #253449;
+    border: 1px solid #47566b;
+}
+
+
+h2 {
+    width: 100%;
+    height: 30%;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.4);
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.results {
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+
+}
