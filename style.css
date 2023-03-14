@@ -10,7 +10,8 @@ body {
     font-size: 16px;
     width: 100%;
     height: 100vh; 
-    background: #014f86 ;
+    background: linear-gradient(-100deg, #014f86 ,#a9d6e5, #e4e9ea,  #012a4a, #00171f) ;
+    background-size: 400% 40%;
  
 }
 
